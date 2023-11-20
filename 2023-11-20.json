@@ -1,0 +1,26 @@
+{
+  "name": "Alex Hardy",
+  "age": 40,
+  "address": {
+    "street": "Ceztu Park",
+    "city": "Vajrelpoj",
+    "state": "MT",
+    "zip": "53798"
+  },
+  "contact": {
+    "phone": "(884) 943-5725",
+    "servicePhone": "800247116"
+  },
+  "birthday": "1960-10-17T17:13:06.964Z",
+  "ip": "90.189.181.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Juklezam rujliga riruuzo veteoj kiakkes carenpen utufi liaricid la ne mi ma bedozso mibiw hofor. Liv za jan iwwu poj wi fa kelwut wemhopeh fec kaf pitirza duchu vegnon paj. Tanti su uw apivij ze sirgisgum wosecram gu hil leblifih sa rosjaju her adire geh jo ih. Docek dihzoadi fuczuowu hepu zil webusjal he hicelif herdih dubfiira ciaw bub ibhud gejjinud melodir ko gahe curnewca. Pot mulolhew wo rosep tit parsekdo me netli iwu zogoge higa setoda bireko ezi.",
+    "bio": "Roveja de baki obnuat su aszirene izuhuum gilemadik upied ziso tera harha oggusug. Sof dejnocze mepduh gapanpeh fip imewoj gozawet tutam ewsek hoc ticojuhik ki. Paoz vokauza cinok kip edzusog viga ro tu ko vosocfec nerzuzwor zado pe dadsehoh nicpa edulog ziptillas isa."
+  },
+  "apiKey": "910db631fa1d7e8485cbde9070cd62cca7a5b4c320beb9ea8b322734e4665a12",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
