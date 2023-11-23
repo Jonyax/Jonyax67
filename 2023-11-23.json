@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Terry",
+  "age": 19,
+  "address": {
+    "street": "Sifet Boulevard",
+    "city": "Neodanac",
+    "state": "ME",
+    "zip": "79582"
+  },
+  "contact": {
+    "phone": "(384) 365-4099",
+    "servicePhone": "800245667"
+  },
+  "birthday": "2002-02-28T04:16:41.650Z",
+  "ip": "249.240.68.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Buvongi febo umhe cu wodemug vejseto wohferu azurut udgo muopu povsattor soufdal. Co liberosa idocel do ottun jofocijat biw setson idetoh ju bi veri go ukonulmiw alopucvup. Pav wiwutzid godpovo sapmo vaep pilpe bovuj jor upok inoupo ajciaj de bafmiage. Zaozo uniga ukha vuzaged jom birikiw kug osecidij ol sivjommag orwiv waegima ipafec vu fuwakog kegzezcaj guedlu rupec. Wiw ven safseic gagus vu nefujdab nijsi fefojoc paikade nejo aphege taazola ovewobe seohe met.",
+    "bio": "Gofe domsagne peliv cewen rokek eza satulasas wolfut zad ca ekauz imesog. Poapufo iwomot ilhak alewadboj vo codim bu enoticu kucomoone godufiz vukmavba jawo okla rapekec si gos owo. Kejef rap wej hadah jogoz vezoga tisuvu hebsutaw rudopsoz funaj oh vebzijow colifaw ozzacwar kaadonu dubdisce zu. Wid raibla ceislul sofcizsot ogome abo paanohuc welrawak pu tafvupno mefji wu se ko. Fa wiego kuc wofube cagagecug uhcajjo rap diuj no cunic sedduz jov mubhevo. Buk mujcofol fe kahubu kucmov oz welesvi fa isuica sotmobto ojo safipru lutip uwaziv eketugat. Rohfo okse zunwijab vejzuza lir kaveg nibfe nemfa akacam osip ewjaf lufbibur erpej sonegwak gehkizruw og."
+  },
+  "apiKey": "fd1cdad06c7645f335cc04160c9b0792ffdd1c80ca6698aa0cf1ffce76761ecf",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
