@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Wong",
+  "age": 51,
+  "address": {
+    "street": "Adiod Parkway",
+    "city": "Zispulto",
+    "state": "MA",
+    "zip": "81251"
+  },
+  "contact": {
+    "phone": "(820) 930-4485",
+    "servicePhone": "800416912"
+  },
+  "birthday": "1980-08-12T10:37:31.146Z",
+  "ip": "163.33.64.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Rohsumsed lewbirlut ug lokosa tesi hecpit goliw zi reguvi ja poka nupket te ne vi uw zeatito co. Zij eboruuho ke le icete kerejtak cu sam jad furev jakak binwiwlak joro ecmabu. Od vah howa roz herfarlum ubu wo co kinaize val epduwuto goknowu.",
+    "bio": "Jicrukas udu bahajjap cafemvu caotapav ati fidovuz ku wafo ukomapose ko movut. Povhefja tu ususin uhi jawa azare jibuwan suviaj ej sosre rolut soghitam awaji pubkevjo wevjus angadu azemaiku. Fu cociij nu laipu keb piketo ec hiz feffeniro pe pa kuti izmibwu haadu feploj niddo."
+  },
+  "apiKey": "ec4675717e0dd52455eea966c2a747cef7d6f22458d9eaca94ae55035b9f1ddd",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
