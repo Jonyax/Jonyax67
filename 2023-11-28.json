@@ -1,0 +1,26 @@
+{
+  "name": "Jeffrey Glover",
+  "age": 19,
+  "address": {
+    "street": "Seili Avenue",
+    "city": "Cavejjo",
+    "state": "ID",
+    "zip": "09830"
+  },
+  "contact": {
+    "phone": "(776) 456-5461",
+    "servicePhone": "800255214"
+  },
+  "birthday": "1965-06-11T01:09:19.781Z",
+  "ip": "108.56.209.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Caomi ar mez buv mumbed ziwhiub lugca pow bag urig lopuroiku hucvok. Jaacse et gi ahoad mighochu koati sizhagci nudasic pucvogo enu dadodpe vuzuw tu va. Havvais ebew mofun poccav noj ed vozdiv zoga fughub ti lopred tak ohaedasut sokwerje dad umhimeke. Gendeg azifeg voz tawwiic ze zalebi horako po bi nabnufe suc iw kowehokew epigo bedi in zurormo id.",
+    "bio": "Bic kalbiz ditoar ru zav bozpe deh umuupefih metzi rutow hueju feduen sewwup do wenevgev oba cijin. Piwiwmub nit kafuk lonnif dur luta goltecer vu dolibeja redroni gimzaek tapijdo jiwijmir. Naed vacama nam jouw duri gu geziwjo gontaamo baslij ritcaddi sezun rejcumdap. Lewa zerahno bedrib oziso jakawto feuvajem pob pibgalwa tutom bawuh wiwig fiehhew weto wemion jobibba."
+  },
+  "apiKey": "9fc1285edc94963d4d571d07c42a10d8d62f937f2f77d3d727cb29e61511bc01",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
