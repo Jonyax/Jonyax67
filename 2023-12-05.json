@@ -1,0 +1,26 @@
+{
+  "name": "Dale Farmer",
+  "age": 18,
+  "address": {
+    "street": "Uhemit Plaza",
+    "city": "Oljepes",
+    "state": "IN",
+    "zip": "45111"
+  },
+  "contact": {
+    "phone": "(783) 789-7195",
+    "servicePhone": "800956572"
+  },
+  "birthday": "2002-02-10T06:27:56.009Z",
+  "ip": "60.146.139.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Bucunog gerdub luzcid zopor ucolu dov voohoon sojeb cebbi abadafe mazru mow zok silca ze. Ci ciwog keribiv hofol emomu siucjeg ful gepece rup ujiremi gem zubsab ij. Nasum purju wa ni wadmicpog ba nujgace fewzep nal nogeg ofine ec.",
+    "bio": "Zo cazpaalo kepta potoj ufo dur focvi puvmezgib ratoduk ci te locsojez buibivuv jit. Suwevok dibup ovtutun renmab mertok rehokeaha kergin bidle uwiavsas odtelzo latuiba owe lun woklu bezlor abucebodu zinohite eda. Okma kejpov vaticas unido iw gornim kepku capnedu faew degwufom nabtaal zeuzze ditcubfob votla. Nir zof anutgiz zucikar meja kofus pempu hit imobe jumucegi kan uwe gerwipho zitvimwe ive vosgare."
+  },
+  "apiKey": "4f563b769820c99b73517707c8144c8bba984acdadf2e63af45de1aa01c46435",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
