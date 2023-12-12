@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Reed",
+  "age": 65,
+  "address": {
+    "street": "Uvwo Extension",
+    "city": "Lomkoso",
+    "state": "SC",
+    "zip": "26263"
+  },
+  "contact": {
+    "phone": "(918) 878-3686",
+    "servicePhone": "800643675"
+  },
+  "birthday": "1996-02-09T10:54:41.148Z",
+  "ip": "146.241.177.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Guzdohlag ro og zigijew wej macreame houji amfi sismoon paol rub ojopizo oriope moicop vah toazcoh zous. Laimenij wilil wi iwanetno igapegmew vad hav habivaka ziwecap funrubi jib pu ewaceuka. Awo tu berladi kogi ho sotkigwo gipzob ekahes gin li sap zomejmik sikoc woka pu giror buccem reh.",
+    "bio": "Ed nu edezu avovicduk ofbe zad vuzduczo unohele ag umropge dev kimun igedib ze tajohca. Bibgar wu upvek ru wizivel leloci un as fermangu udedigjud ke suz polidev lomna bataaf obovike poecoz. Adacuicu eli kajra kurnic jozkil mizowkif hikamibu hehemrus af diag akico towmurdol."
+  },
+  "apiKey": "67e6903af2e3133063a94c7dcadfc6fcc7e8ecffd4edecea2ad6e21a6dda6915",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
