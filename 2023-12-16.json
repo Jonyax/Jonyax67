@@ -1,0 +1,26 @@
+{
+  "name": "Duane Sharp",
+  "age": 47,
+  "address": {
+    "street": "Dutus Plaza",
+    "city": "Igoizosoj",
+    "state": "ME",
+    "zip": "46659"
+  },
+  "contact": {
+    "phone": "(942) 230-8263",
+    "servicePhone": "800362459"
+  },
+  "birthday": "1987-12-02T17:16:28.396Z",
+  "ip": "95.91.64.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi jac kokdepefu wapezab pu jobdi lek hu kipi kabfiur boluhhan domise puihi. Oka bu avecitli nuef petogad vajno ha nuvinuunu mesad edizime penielu ku tik owetot focli puabi zihu. Miugi takbo owdi doj ca efedi jibgun tiiwa baskova katada lake hunli vi iketu lemo zu zu.",
+    "bio": "Amotel ta sejubzel te guf da jenirure vup lu tuva ga hif zivele olzu wivsuvmiz wehe risonov. Zadageb powjon reutumal rolad gupordub vuvovat go map egisal fo zaj wom. Pigehve huden bat gi juj azjedhi jugefet an girkit gethaf igonel fi. Detisit ite atajov gaafpiw wat zi em vawki wib bachajja lik cev."
+  },
+  "apiKey": "2c28994792887ef1176d4465aba28986459c1e3644720dddcb409c30ed537406",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
