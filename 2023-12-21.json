@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Holmes",
+  "age": 23,
+  "address": {
+    "street": "Pori Plaza",
+    "city": "Isiuzoku",
+    "state": "UT",
+    "zip": "49181"
+  },
+  "contact": {
+    "phone": "(769) 838-1812",
+    "servicePhone": "800154864"
+  },
+  "birthday": "1961-02-23T01:33:16.719Z",
+  "ip": "7.80.195.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Moc macik jito bir vip du zecho cojsat sirpa zohove hegtujum tevbezhen. Mam bizakune vape al rofpittaw pajhabi ri wepdihih befconhu ihusogme ibiloteme biz ziari da devu nuvepkes ewenef. Palce ofuha wef muow me icfuw vasa meztiv biorja gaome ridlomsez jaskadon bob bael obbogev. Wis cuvi satpuwem bo uculad ajki ib famowe beboh jev zi zubaluac fouseh. Tuut ivudanivi iwbozbeg jocerelih adise jen vafifa peora cucof toap afa enwa he medocid giztibi wuvinje kibco. Sava soev amgi wo hunniv sakunito mu bid necfa go efofol feocawu oviodoupo ef gekiniko kozo.",
+    "bio": "Gonek genhan gile ofuik uhu ezietife lol ijkusdu wuvvucbag re lijjagme rehzizja. Razzavo ig roburo secramaj zeazapir fafmu pi ito ufo tavli ih so cewuctif raz goduser ruitdu metvo. Juz roruswam pi hu asavupa dihusim pah wi ge opi wukesek jajezbo he ro. Pe kenu dizfuso bimvoso ne zaca mipsel ereli hanpo sibureme vigugih cavzafe koma wupkokrul. Uw gonege riuwe muztac hi limizok ca laocurem cedima renantow luw kut ro. Vo cuco sab ji ja zougosit lirgipji heesi dacced wuga ra uba tilmukema goup arutoon seju. Fi zow baseta kuuda besror wahejit dud ha azfig tojto pi seodo hos duciksed gullezar bomehufe."
+  },
+  "apiKey": "dcc813e678223a2c151495740cf46cbc30a1dd263af2cf7ac1ffc2edf3596406",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
