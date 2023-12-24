@@ -1,0 +1,26 @@
+{
+  "name": "Viola Sharp",
+  "age": 35,
+  "address": {
+    "street": "Utse Path",
+    "city": "Tihhabas",
+    "state": "CA",
+    "zip": "92291"
+  },
+  "contact": {
+    "phone": "(777) 369-1422",
+    "servicePhone": "800946184"
+  },
+  "birthday": "1991-07-18T18:57:18.774Z",
+  "ip": "180.111.76.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Watesa jemawowu ze elrojuk zandellef dahod uttapgij ir la mokaz lob getmoseba johiv jivvol tuaju zugsisbo gez. Sehof kiti huw ba lu we mid ci we sazid ivaro lu. Wu zeik sazunmo hoffuve mis eruhazog livozum lode kat hez zozfo ad zozuvelan edo vah difoza zivoda fuinhe. Elokowaj mon evihanac jompepune vihunike wes piwat uve uha vugove cejupu kizijesi jaj fadi fiwmezul. Fapud jeno obe lovezab zuconwa bofvez fuhezfil nomli tomho ne lu ohu lanati pa nojewwu dujpoic.",
+    "bio": "Ehiwaru cisracuk akokuhji wi ov ocabiv voibago zawit asuitafo fem ji ev wavapi doiwu eketa. Tokuchu cum zoh iv fibuwe jannenrun jez nutalulu ser wa bebojnop iw touga wu taj lale. Wu seketjod amsag we ovoud ostem peko wupankav ipruj rut geitvik su lim."
+  },
+  "apiKey": "59c4978b00327e28d84e5657ff46713cdb1f13a475e269e345d0b3dc07139318",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
