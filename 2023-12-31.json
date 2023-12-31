@@ -1,0 +1,26 @@
+{
+  "name": "Alex Lane",
+  "age": 28,
+  "address": {
+    "street": "Tazjuz Place",
+    "city": "Duzuhak",
+    "state": "NC",
+    "zip": "78581"
+  },
+  "contact": {
+    "phone": "(201) 929-9722",
+    "servicePhone": "800915552"
+  },
+  "birthday": "2002-09-18T21:05:27.030Z",
+  "ip": "69.87.218.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ponhu ramoco lup zecitmec cedan enu zife gatsavaz akodwot rofse sufrug wu ji van efu fohacow sonigi. Soh ma zuib hawco jinabbiz esu digzokos pij mablah gahwep jo cefjap. Rol ma mahise we waenza tudbub kozwasga fuwut junpodu zaksohne valud punijiwac ra til bupe tal.",
+    "bio": "Biwu ded geuga po zetcig kokem idegiwgew ug ij jarvubo eheejoiku hawogiha guw vo ruvlas ako. Epooli abifo hi haverub gum riw kezna pif la sa oznej budti ci gufjuh. Pifosuw taewoik fog hiw tazzip lug moljenon pekoj pope now guv gojufo jur robjiduc kebvowwor cuz. Da dejuw jib gakwiade kiwvo icouzohob lijpe arkojsi po den fup vabaleca efour ijca ezoboulo jode."
+  },
+  "apiKey": "0e55e492387b507b44c7ec63bd140dd3bddb5f221c79c56731dcfe87789ddfa0",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
