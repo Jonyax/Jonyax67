@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Stone",
+  "age": 45,
+  "address": {
+    "street": "Sikbok Avenue",
+    "city": "Cimvono",
+    "state": "SD",
+    "zip": "31502"
+  },
+  "contact": {
+    "phone": "(432) 638-5999",
+    "servicePhone": "800179123"
+  },
+  "birthday": "1975-01-07T22:59:05.764Z",
+  "ip": "105.188.193.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuj so rudsa le akman be fi copagnu lum tun cah jauba. Jiwed vil jirida ze mo besilmi ap lo we renaparo norgese sudez alni mi zaban. Wuil cejior redotdak bohcoj ociartu tekif ikuguava keadehow fomedaco zujfuh dulka efizihvo irhaliwe. Tu fe zu depif huco idra douha jog lodis sub wenjud keztu du.",
+    "bio": "Zuavucuc ijote vimro sovof re weojuh caanu epa ujuuju fud osofebbam ojlen ifesi ced ufoimi toogale. Mo oso zu vih ezdug gazuc volare ri upu ece tuedfod dodacnij meanli lirder renatomo womano eluufco wes. Uvaida wicium kejjolzol pisguv efo kopmis erjered te juhcome vimawke avi hu ti vi lonso. Afo ges ukhi anezuzti fa geotti wo vafafcir rukke winriwan leonecig hoc zisove gu tihferep zal."
+  },
+  "apiKey": "23b9f7e0de0012b9b0d66b5d35c4e3ac174f7173e6174fff129bba455ef200a1",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
