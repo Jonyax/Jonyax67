@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Stewart",
+  "age": 32,
+  "address": {
+    "street": "Miriw Heights",
+    "city": "Cutcebu",
+    "state": "ME",
+    "zip": "53674"
+  },
+  "contact": {
+    "phone": "(643) 652-1444",
+    "servicePhone": "800265753"
+  },
+  "birthday": "2002-08-11T06:41:25.432Z",
+  "ip": "52.14.110.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Pedzoczek urisor fizon hasaf uba wafamto lucjosuf jupawumok gef ufifeuk mesinza ge fusum vuma asdevto mije vehgome. Icpok tejzu ucmagboj wacetan zur row fikobu nuba mu tutesgak fefwijlom zijbu wun sacivdo ile mefibo icuwamic. Hugru ojilet hewor tumu guvjoviw siwotivah kij efwa ji jevbik comizkad ucrupti. Kuh negu ap hehbut nij sitad ijpis ni rom mo vumpica vazriis to wepita. Kal dikaz opa ibecod rochuz gu sononop so lat zuko ci zoih nuksuh obipi zonuv ocadon. Tanidob ruaz nisba ji weagam nevnu gizozu nojbaibu si coz oju if fo ru.",
+    "bio": "Uvjuhcu tamujgo jup riwo seno fo ocactuw fus muv ah talir bucfoupo ho jedod bokfuk. Zisum jom ovaasani guk odisa sub tiwvifres eh ged oh zamguf jenjocwa cifre vepmubzos duewtul. Lam cap teve cozukesa juspa gefuuro zuvazu ta rimkedeh solgibcen jibaf iruejogi ter funav lo tul. Pe ibamoplih hedikcu pik revmefcus kil fespekbo bijivra ode cesviwowe woiju osapah etu ifu. Vifot ihpiwrih laodwu biardil ukim noakewuv iwawbi remzah fagu pamahezin ukupe pug ijedawbak doc ad sid avobepabe. Re ebecaati beik unaat po zod bingiduk dis punozmi mof wezsecho fahgi lazadhaz josa sig vaenki."
+  },
+  "apiKey": "5c7c0586082904434f47a5dbc06d33fc4a8998a9e4a93ddfc93e7a94127f18ef",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
