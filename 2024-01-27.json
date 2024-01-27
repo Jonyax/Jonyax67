@@ -1,0 +1,26 @@
+{
+  "name": "Jack Graves",
+  "age": 42,
+  "address": {
+    "street": "Opzi Junction",
+    "city": "Bebdirar",
+    "state": "MO",
+    "zip": "02697"
+  },
+  "contact": {
+    "phone": "(828) 312-8930",
+    "servicePhone": "800575359"
+  },
+  "birthday": "1998-10-20T15:13:52.968Z",
+  "ip": "220.248.46.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Gas tedgedzi bohen odici fowbi nujzewuf acuak ceahona ceise bevisuzog peh naviso segil ajemop. Sulfain to obi fivitor miofupi okolod mofifhep netzihde di viz fic ad wuf. Luhwis kapohpe jicsevtav owosu wel me su coc adili fezopar asuekovev bouk. Fupfuzuc pa sircaan nubatmo nic iztuj gov epe dawir tezvak loj vijcop vuwutpi.",
+    "bio": "Geccivgiv bi rajakaf gu sittum padahra ozbelid er ce uwceizo zefak cebzud rapaci raj coomituf roj iparudip. Tog zuv ve matip fo loc memad wadwudhas peipi no za isu. Vucubfuv iza mawlam ot budajiwi beclov ge joruh oce pidipwo ahaulu vig. Icba ozro bitgeze tonoguup ninta tumbitbuv rigzaig ezlokak acaril idoso kifehuba te puk. Mom kipiti ogajopa jo ocditpu ve pobzanu hoftug zaezituv pu ezoropwic vocipdol nic veh nu. Tolup ihepier ojo bagalbe befu herof ze odwa jo fonavi isicod buhokri bevalju bogwef."
+  },
+  "apiKey": "60b4a8718739f37d9fa399819dcd7b73a595b4e24018e7e56d5c6216326505a7",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
