@@ -1,0 +1,26 @@
+{
+  "name": "Cora Smith",
+  "age": 31,
+  "address": {
+    "street": "Areet Road",
+    "city": "Igisezam",
+    "state": "KS",
+    "zip": "93563"
+  },
+  "contact": {
+    "phone": "(883) 233-8919",
+    "servicePhone": "800395316"
+  },
+  "birthday": "1963-12-16T15:24:57.983Z",
+  "ip": "27.108.192.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Obi cuj besosni jofiha buvi izaropum ri fifuz wemhebew igu lino kauja fefodta. Tinotfav muteruwe lin oc mewora vipha eluivaras zesgu og di hiw acso vettincar sa kuisab fu isi vuvruj. Gavako hecjoca jolujpis bitupaja aweteuw sumiw fum rarifaf udi if ruzudhin je nitvajbaz huvam.",
+    "bio": "Naloza uba mi loc cobogeb disot bimihur mulpito tuskori muafez cugmehzih lu. Runap fufiow bulgo pewmadcow azvub wa jambe benik vevif su piuculi mozje kuk ki kikrefusu marzav cavev. Rolinwiz wel sepir beuzim vupiani bur kajlu sag witraj deuk bi fatomaw fomef roihu iwahotcek manat oswu egvarmen. Jelidah pamagi ho ikuos ohnateno epuci duho te nulhilona hicwom fafafset miv. Pim ok tinwiit lesak jo wikcufcav ef hebbakur wokbed ad vilrol dafuzaz vejcap vactewpu ku cori noli ce. Efolelliw di pizek humko moug tewim veuv lavi jo rojcepgo areg os linin wi em."
+  },
+  "apiKey": "483af06aac311054b4002eb6e7d73edf7198bd93148ead9840e3ac0eec267de7",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
