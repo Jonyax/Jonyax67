@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Hogan",
+  "age": 28,
+  "address": {
+    "street": "Rafi View",
+    "city": "Jawvido",
+    "state": "MI",
+    "zip": "45072"
+  },
+  "contact": {
+    "phone": "(813) 606-6887",
+    "servicePhone": "800577578"
+  },
+  "birthday": "2005-05-21T07:20:10.818Z",
+  "ip": "177.155.126.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Una opavibog laloniri le voesa kovavucu wahagol tabfara samuz avrowjoc tijoaju nabogak coomirug. Oca keog uvge tomon nihagobol newsic zan le ube zaso tojajen cawot ertiwu mihabi. Cignel von dup wevpe di nos po ehusoto jiwcazvil zid osakcel mumdedwu kodev me cepju cet bestemuv buzufiana.",
+    "bio": "Uso haehbi gukawo eg acrug nofkotaf sojwepez ga apguwguk iwparbe pogek uwiothas ufkud dihis tugceoc. Ur edfeawo jubaf reruli nu ifpem hugzi nipagten lu bil tiivo ta. Ewapiowe owu cun leweg sudhac efane lauw ot bah orapi siza fo segoran. Usi ki wimebap anegahku rafdu diriwpe kovfevco haftof urbi lov piv bufodlup pawewape ruz tiesgep."
+  },
+  "apiKey": "994fa9e675e10bb214011c4f5e33c75360bbf5a9da94bce21ee85f210f1c40e8",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
