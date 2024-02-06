@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Daniel",
+  "age": 39,
+  "address": {
+    "street": "Jacpip Place",
+    "city": "Cekranu",
+    "state": "NM",
+    "zip": "72586"
+  },
+  "contact": {
+    "phone": "(221) 428-5857",
+    "servicePhone": "800421554"
+  },
+  "birthday": "1970-08-15T10:38:07.241Z",
+  "ip": "72.182.67.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuscij cewegeh aruho ehovouce jehdenji acsak nen gijrepmel utidice avgupese zakvu vopcu cumomi fusta iro. Nimloel wubahik jozez atalosga tiw efaed ha edimemlo ohobu jivmeito uzoawipit ne nicep sofu gaw sobzeun wochaco fafto. Nevi divo fise ujici sovi oho heg butwagke bon necvijli ida gibvejcer. Ko ukiudoif egzocom marpapjov ipele hil ci ibudo sapin kephum bofro ulatusil kaahoce ti rirradede. Da ilaja dem ov bahecrok cemto iznomi ti ako su niwmef jelewahi lezli hinocme ho jot wo ihdun.",
+    "bio": "Wuni moz fadapihag ampu zagaw nuleigi ecigegih cac em fesnotbep tohmog buru fomuri nic etuesa ga jit hoigerop. Folon dusnof nu ur wupi muvitek funeidi ka jawedkos fam hof muna zofhelib majicab hoci jaud ega gokun. Datuvem talbiba deukha saip duzme lemwaup fih vov lokuhaas ug ligohe zurapmoc guclun we ag zof eposa fofoc."
+  },
+  "apiKey": "461f34a2a9672bd2f9d6c11462a3e3fdcdfd6eb0e3063298052e13ae25c0ef3c",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
