@@ -1,0 +1,26 @@
+{
+  "name": "Don Moreno",
+  "age": 40,
+  "address": {
+    "street": "Ekuicu Ridge",
+    "city": "Owrawawe",
+    "state": "CT",
+    "zip": "03591"
+  },
+  "contact": {
+    "phone": "(851) 792-4757",
+    "servicePhone": "800798228"
+  },
+  "birthday": "1976-10-30T06:58:53.618Z",
+  "ip": "80.6.0.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Eljepvag cofgulhe apolapco toju bilnosda hezunuzu kuukwom ukiohozut ciore rahif tatupasu gonpa. Vidled mu fawcoode eseparbus va ewu ponu aleduw totku ucoh maf limutonor gogwowaj azhuv pijromju pape. Anufemo adihir kiojojor iro bohwi zesbi ca hiccet uzgin za pi sih cih fofigte wormu rofaj lomam ledegi.",
+    "bio": "Wud nislodi lic mi fopono koliga idiburca ro otuvutzak nur nikaz ere jekjoweb todav nu ug zodkeiti sugaaha. Wom co amober iru nogoh wuta gesutvok pigzad sik afrin daopeofe helnu fido gikkur mid rawcun. Osodo loktu zed bogsuji nadi bep ar diar fab or car el jut gu homu sujsiw."
+  },
+  "apiKey": "0d664e121cb4ca4d20c4683a6e01a39b2daa7ca3e6e0fed91e704e7f0e1a5947",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
